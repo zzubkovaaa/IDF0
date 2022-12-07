@@ -1,4 +1,4 @@
-# IDF0 <li> https://webmg.ru/wp-content/uploads/2020/12/3-10.jpg </li>
+# IDF0 ![alt text](https://github.com/[zzubkovaaa]/[(https://webmg.ru/wp-content/uploads/2020/12/3-10.jpg)]/blob/[branch]/image.jpg?raw=true)
 <h1 align="center">Практические и лабораторные по диаграммам ER</h1> 
 <p align="center"><b>Инструкция по открытию диаграмм IDF0 </b></p>
 <ul>
